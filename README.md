@@ -1,6 +1,7 @@
 # visit 
-https://fetch-github.netlify.app/# Submission for Fyle Frontend Challenge
+https://fetch-github.netlify.app/
 
+# Submission for Fyle Frontend Challenge
 ## Assumptions
 
 No extra assumptions were made. The challenge is completed according to the instructions.
